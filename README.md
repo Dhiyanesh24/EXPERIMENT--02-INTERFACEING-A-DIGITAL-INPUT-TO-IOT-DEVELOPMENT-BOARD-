@@ -1,8 +1,3 @@
-###  DATE: 20/2/24
-
-###  NAME: Dhiyaneshwar P 
-###  ROLL NO : 212222110009
-###  DEPARTMENT: CSE(IoT)
 
 
 # EXPERIMENT--02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-
@@ -75,7 +70,10 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 17. check for execution of the output by switching the board to run mode 
 
 
-
+```
+Name : Dhiyaneshwar P
+Reg.no : 212222110009
+```
 ## STM 32 CUBE PROGRAM :
 ```
 #include "main.h"
